@@ -1,10 +1,10 @@
 # Анализ Рейтингов Фанданго
 
 ## Оглавление  
-[1. Обзор](https://github.com/giblyf/fandango_ratings_analysis/tree/mainREADME.md#Обзор)  
-[2. Цель проекта](https://github.com/giblyf/fandango_ratings_analysis/tree/mainREADME.md#Цель-проекта)  
-[3. Краткая информация о данных](https://github.com/giblyf/fandango_ratings_analysis/tree/mainREADME.md#Краткая-информация-о-данных)  
-[3. Этапы работы над проектом](https://github.com/giblyf/fandango_ratings_analysis/tree/mainREADME.md#Этапы-работы-над-проектом)  
+[1. Обзор](https://github.com/giblyf/fandango_ratings_analysis/tree/main/README.md#Обзор)  
+[2. Цель проекта](https://github.com/giblyf/fandango_ratings_analysis/tree/main/README.md#Цель-проекта)  
+[3. Краткая информация о данных](https://github.com/giblyf/fandango_ratings_analysis/tree/main/README.md#Краткая-информация-о-данных)  
+[3. Этапы работы над проектом](https://github.com/giblyf/fandango_ratings_analysis/tree/main/README.md#Этапы-работы-над-проектом)  
 [4. Результат](https://github.com/giblyf/fandango_ratings_analysis/tree/mainREADME.md#Результат)  
 
 ## Обзор  
